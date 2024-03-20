@@ -1,0 +1,168 @@
+[
+    {
+        "FolderNamePattern": "老澳门(\\d+)期",
+        "OldFileName": "ammh.jpg",
+        "NewFileName": "lam-cz.jpg"
+    },
+    {
+        "FolderNamePattern": "老澳门(\\d+)期",
+        "OldFileName": "amsbx.jpg",
+        "NewFileName": "lam-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "老澳门(\\d+)期",
+        "OldFileName": "ampgt.jpg",
+        "NewFileName": "lam-pgt.jpg"
+    },
+    {
+        "FolderNamePattern": "台湾图 \\((\\d+)\\)",
+        "OldFileName": "ampgt-w.jpg",
+        "NewFileName": "tk-tw-pgt.jpg"
+    },
+    {
+        "FolderNamePattern": "台湾图 \\((\\d+)\\)",
+        "OldFileName": "twcz-w.jpg",
+        "NewFileName": "tk-tw-cz.jpg"
+    },
+    {
+        "FolderNamePattern": "台湾图 \\((\\d+)\\)",
+        "OldFileName": "zdsc13.jpg",
+        "NewFileName": "tk-tw-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "台湾图 \\((\\d+)\\)",
+        "OldFileName": "twsbxt.jpg",
+        "NewFileName": "tk-tw-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "台湾图 \\((\\d+)\\)",
+        "OldFileName": "twsbx.jpg",
+        "NewFileName": "tk-tw-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "台湾图 \\((\\d+)\\)",
+        "OldFileName": "twlpgt.jpg",
+        "NewFileName": "tk-tw-pgt.jpg"
+    },
+    {
+        "FolderNamePattern": "台湾图",
+        "OldFileName": "ampgt-w.jpg",
+        "NewFileName": "tk-tw-pgt.jpg"
+    },
+    {
+        "FolderNamePattern": "台湾图",
+        "OldFileName": "twcz-w.jpg",
+        "NewFileName": "tk-tw-cz.jpg"
+    },
+    {
+        "FolderNamePattern": "台湾图",
+        "OldFileName": "zdsc13.jpg",
+        "NewFileName": "tk-tw-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "台湾图",
+        "OldFileName": "twsbxt.jpg",
+        "NewFileName": "tk-tw-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "台湾图",
+        "OldFileName": "twsbx.jpg",
+        "NewFileName": "tk-tw-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "台湾图",
+        "OldFileName": "twlpgt.jpg",
+        "NewFileName": "tk-tw-pgt.jpg"
+    },
+
+    {
+        "FolderNamePattern": "新澳门(\\d+)期",
+        "OldFileName": "ammh-.jpg",
+        "NewFileName": "xam-cz.jpg"
+    },
+    {
+        "FolderNamePattern": "新澳门(\\d+)期",
+        "OldFileName": "amsbx-.jpg",
+        "NewFileName": "xam-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "新澳门(\\d+)期",
+        "OldFileName": "ampgt-.jpg",
+        "NewFileName": "xam-pgt.jpg"
+    },
+    {
+        "FolderNamePattern": "新澳门(\\d+)期",
+        "OldFileName": "ammh.jpg",
+        "NewFileName": "xam-cz.jpg"
+    },
+    {
+        "FolderNamePattern": "新澳门(\\d+)期",
+        "OldFileName": "amsbx.jpg",
+        "NewFileName": "xam-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "新澳门(\\d+)期",
+        "OldFileName": "ampgt.jpg",
+        "NewFileName": "xam-pgt.jpg"
+    },
+    {
+        "FolderNamePattern": "新澳门图 \\((\\d+)\\)",
+        "OldFileName": "ammh.jpg",
+        "NewFileName": "tk-xam-cz.jpg"
+    },
+    {
+        "FolderNamePattern": "新澳门图 \\((\\d+)\\)",
+        "OldFileName": "ampgt.jpg",
+        "NewFileName": "tk-xam-pgt.jpg"
+    },
+    {
+        "FolderNamePattern": "新澳门图 \\((\\d+)\\)",
+        "OldFileName": "amsbx.jpg",
+        "NewFileName": "tk-xam-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "新澳门图",
+        "OldFileName": "ammh.jpg",
+        "NewFileName": "tk-xam-cz.jpg"
+    },
+    {
+        "FolderNamePattern": "新澳门图",
+        "OldFileName": "ampgt.jpg",
+        "NewFileName": "tk-xam-pgt.jpg"
+    },
+    {
+        "FolderNamePattern": "新澳门图",
+        "OldFileName": "amsbx.jpg",
+        "NewFileName": "tk-xam-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "香港(\\d+)期",
+        "OldFileName": "mhczxd1.jpg",
+        "NewFileName": "xg-cz.jpg"
+    },
+    {
+        "FolderNamePattern": "香港(\\d+)期",
+        "OldFileName": "xgmhcz.jpg",
+        "NewFileName": "xg-cz.jpg"
+    },
+    {
+        "FolderNamePattern": "香港(\\d+)期",
+        "OldFileName": "mhcz.jpg",
+        "NewFileName": "xg-cz.jpg"
+    },
+    {
+        "FolderNamePattern": "香港(\\d+)期",
+        "OldFileName": "sbx.jpg",
+        "NewFileName": "xg-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "香港(\\d+)期",
+        "OldFileName": "sbxxd1.jpg",
+        "NewFileName": "xg-sbx.jpg"
+    },
+    {
+        "FolderNamePattern": "香港(\\d+)期",
+        "OldFileName": "xgsbx.jpg",
+        "NewFileName": "xg-sbx.jpg"
+    }
+]
