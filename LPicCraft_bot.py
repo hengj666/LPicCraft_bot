@@ -4,8 +4,8 @@ import urllib3
 import subprocess
 import time
 
-# 替换为您的 Bot Token 和目标 chat ID
-TOKEN = '7005556569:AAHtik47FDXnFBCjYT2QJmtwUV8SFkvM42o'
+# Bot Token 和目标 chat ID
+TOKEN = '111'
 TARGET_CHAT_ID = 1500662183
 
 # 创建一个 Telepot Bot 实例
