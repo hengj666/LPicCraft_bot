@@ -40,7 +40,7 @@ print("当前工作目录是：", current_dir)
 #update_json_field(json_file_path, field_to_update)
 
 # Bot Token 和目标 chat ID
-TOKEN = '6548519953:AAGbQuj29AQszui7M2Mv8NCkO5mchp022YY'
+TOKEN = '111'
 OWNER_CHAT_ID = 1500662183
 #ALLOW_CHAT_IDS = [1500662183, 6246444066, ]
 #ALLOW_USERNAMES = {'Liusy01', 'ay_6698', 'username3'}
